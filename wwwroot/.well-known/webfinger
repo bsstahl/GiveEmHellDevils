@@ -1,0 +1,23 @@
+{
+    "subject": "acct:giveemhelldvls@pixelfed.social",
+    "aliases": [
+        "https://pixelfed.social/@giveemhelldvls",
+        "https://pixelfed.social/users/giveemhelldvls"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://pixelfed.social/@giveemhelldvls"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://pixelfed.social/users/giveemhelldvls"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://pixelfed.social/authorize_interaction?uri={uri}"
+        }
+    ]
+}
